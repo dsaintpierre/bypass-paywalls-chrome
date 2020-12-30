@@ -42,6 +42,7 @@
 [Chicago Tribune](https://www.chicagotribune.com)\
 [Corriere Della Sera](https://www.corriere.it)\
 [Crain's Chicago Business](https://www.chicagobusiness.com)\
+[Curbed](https://wwww.curbed.com)\
 [Daily Press](https://www.dailypress.com)\
 [De Gelderlander](https://www.gelderlander.nl)\
 [De Groene Amsterdammer](https://www.groene.nl)\
